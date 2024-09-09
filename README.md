@@ -22,7 +22,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=davidprado4021&show_icons=true&theme=radical" alt="Estadísticas de GitHub"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidprado4021&layout=compact&theme=radical" alt="Lenguajes Más Usados"></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=davidprado4021&show_icons=true" alt="Anurag's GitHub stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"></p>
 
 <h2>🏆 Trofeos de GitHub</h2>
 <p><img src="https://github-profile-trophy.vercel.app/?username=davidprado4021&theme=radical" alt="Trofeos de GitHub"></p>
