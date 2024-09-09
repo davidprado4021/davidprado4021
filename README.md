@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [davidprado4021]
+# ¡Hola! 👋 Soy [David A. Prado A.]
 
 Soy un desarrollador web con más de cuatro años de experiencia en Ederpro C.A. en Ciudad Guayana, Puerto Ordaz. Estoy especializado en soporte técnico y gestión de redes WISP, con un sólido historial en liderar equipos técnicos y resolver problemas complejos.
 
