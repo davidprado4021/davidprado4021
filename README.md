@@ -1,6 +1,6 @@
 <h1>¡Hola! 👋 Soy [Tu Nombre]</h1>
 
-<p>Soy un desarrollador web con más de cuatro años de experiencia en <a href="https://www.ederpro.com">Ederpro C.A.</a> en Ciudad Guayana, Puerto Ordaz. Estoy especializado en soporte técnico y gestión de redes WISP, con un sólido historial en liderar equipos técnicos y resolver problemas complejos.</p>
+<p>Soy un desarrollador backend con más de cuatro años de experiencia. Estoy especializado en el desarrollo de soluciones backend robustas y escalables, con un sólido historial en la gestión de bases de datos, creación de APIs y optimización del rendimiento del servidor. Además, tengo experiencia en liderar equipos técnicos y resolver problemas complejos relacionados con la infraestructura y la arquitectura del software.</p>
 
 <h2>🚀 Sobre Mí</h2>
 <ul>
