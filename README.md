@@ -27,9 +27,6 @@
 <h2>🏆 Trofeos de GitHub</h2>
 <p><img src="https://github-profile-trophy.vercel.app/?username=davidprado4021&theme=radical" alt="Trofeos de GitHub"></p>
 
-<h2>📈 Gráfico de Actividad</h2>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=davidprado4021&theme=radical" alt="Gráfico de Actividad"></p>
-
 <h2>🌐 Conéctate Conmigo</h2>
 <ul>
     <li><a href="https://www.linkedin.com/in/david-a-prado-a-59722330b/">LinkedIn</a></li>
