@@ -15,7 +15,7 @@
   <li><strong>Lenguajes de Programación:</strong> C#, JavaScript, HTML, CSS</li>
   <li><strong>Frameworks y Librerías:</strong> .NET, ASP.NET, Entity Framework</li>
   <li><strong>Bases de Datos:</strong> SQL Server, MySQL</li>
-  <li><strong>Herramientas y Plataformas:</strong> Git, GitHub, Visual Studio, Azure</li>
+  <li><strong>Herramientas y Plataformas:</strong> Git, GitHub, Visual Studio</li>
 </ul>
 
 <h2>📊 Estadísticas de GitHub</h2>
