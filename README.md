@@ -16,9 +16,18 @@ Soy un desarrollador web con más de cuatro años de experiencia en Ederpro C.A.
 - **Bases de Datos**: SQL Server, MySQL
 - **Herramientas y Plataformas**: Git, GitHub, Visual Studio, Azure
 
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 !Estadísticas de GitHub
+!Lenguajes Más Usados
+
+## 🏆 Trofeos de GitHub
+
+!Trofeos de GitHub
+
+## 📈 Gráfico de Actividad
+
+!Gráfico de Actividad
 
 ## 🌐 Conéctate Conmigo
 
