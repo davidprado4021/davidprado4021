@@ -30,7 +30,7 @@
 
 <h2>🌐 Conéctate Conmigo</h2>
 <ul>
-  <li><a href="[https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/david-a-prado-a-59722330b/)">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/david-a-prado-a-59722330b/">LinkedIn</a></li>
 </ul>
 
 <hr>
